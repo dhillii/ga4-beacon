@@ -9,7 +9,7 @@ For a great, hands-on explanation of how this works, check out the following gui
 
 ## New GA4 Features
 
-This updated beacon service includes several enhancements:
+This updated beacon service is based on the great work by [Ilya Grigorik](https://github.com/igrigorik) and the contributors to [GA Beacon](https://github.com/igrigorik/ga-beacon). It includes several enhancements to work in 2025:
 
 - **GA4 Measurement Protocol v2 Support**: Full compatibility with Google Analytics 4
 - **Configuration File Support**: API secrets and measurement IDs are stored securely in config files
